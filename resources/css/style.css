@@ -367,7 +367,7 @@ input[type=text],
 input[type=email],
 select,
 textarea{
-    width: 200%;
+    width: 100%;
     padding: 7px;
     border-radius: 3px;
     border: 1px solid #ccc;
@@ -428,6 +428,6 @@ footer p{
 }
 .social-links li a :link,
 .social-links li a :visited{
-    font-size: 200%;
+    font-size: 160%;
     
 }
