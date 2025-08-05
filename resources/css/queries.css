@@ -75,3 +75,9 @@
         flex-direction: column;
     }
 }
+
+@media (min-width: 992px) {
+  .custom-navbar .navbar-collapse {
+    flex-grow: 0;
+  }
+}
